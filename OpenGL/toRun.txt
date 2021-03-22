@@ -1,0 +1,4 @@
+-takes input from input.txt; then run below commands
+
+-$ g++ <program>.cpp -o <outputbin> -lglut -lGLU -lGL
+-$ ./<outputbin>
